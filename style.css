@@ -1,0 +1,21 @@
+#forms {
+    max-width: 480px;
+    margin: 50px auto;
+    padding: 16px;
+    border: 1px solid #eaeaea;
+
+  }
+  #Submit{
+      
+      width: 480px;
+      padding: 16px;
+
+      background-color: darkcyan ;
+      color: white;
+      
+  }
+  #Bio{
+   
+     width: 400px;
+     padding: 10px;
+  }
